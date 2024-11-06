@@ -22,9 +22,9 @@ This project demonstrates a setup for deploying the Meta-Llama-3.1-8B-Instruct m
    ```
 
 3. **Run the vLLM Server**:
-```bash
-vllm serve meta-llama/Llama-3.1-8B-Instruct --dtype auto --api-key token-abc123
-```
+   ```bash
+   vllm serve meta-llama/Llama-3.1-8B-Instruct --dtype auto --api-key token-abc123
+   ```
 
 ## Implementing Character Filtering
 
